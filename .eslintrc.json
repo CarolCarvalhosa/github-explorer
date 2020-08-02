@@ -33,6 +33,9 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "camelcase": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "implicit-arrow-linebreak": "off",
+    "operator-linebreak": "off",
     "@typescript-eslint/explicit-function-return-type": [
       "error",
       {
